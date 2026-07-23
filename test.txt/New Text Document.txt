@@ -1,3 +1,5 @@
 hello py
 hello debounce = 30s
 added task in task manager
+
+Testing the auto sync the other day :  23-07-2026
